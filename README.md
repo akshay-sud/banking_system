@@ -7,7 +7,9 @@ SJSU CS 157A Project - JDBC boilerplate code provided by Professor (left ambiguo
 Banking system project is designed to link database to Java program utilized for CLI (Command Line Interface) and allow user to access database without directly writing queries. 
 
 p1.java             - CLI/menu code
+
 BankingSystem.java  - JDBC SQL Methods utilized by p1.java to interact with the database
+
 create.clp          - SQL table creation file containing commands used to create the two necessary tables for the database,        p1.Customer and p1.Account as well as a view CustomerBalance.
 
 # Banking Methods
